@@ -55,17 +55,13 @@ npm run test
 
 ## Autor
 
-* **Cesar dos Santos de Almeida** - *responsável pela construção e desenvolvimento do projeto*
+* **Jardel Alves** - *responsável pela construção e desenvolvimento do projeto*
 
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes
 
 
-## Links
-
-* [Apresentação](https://cesar959.github.io/teste-cypress/) - Link da Apresentação em video do projeto
-* [QANinja](https://app.qaninja.com.br/area/vitrine) - Link do curso que ensinou essas habilidades
 
 
 
