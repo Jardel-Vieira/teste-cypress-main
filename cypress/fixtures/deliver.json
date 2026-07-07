@@ -1,0 +1,48 @@
+{
+    "signup":{
+        "name": "Cesar dos Santos de Almeida",
+        "cpf": "00000014141",
+        "email": "cesarsantos49@gmail.com",
+        "whatsapp": "1199999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": 
+    {
+        "name": "João Lucas da Silva",
+        "cpf": "12dfgdgvdfgfdgdfggdfgfdgfdgdfgdfgdfgdf",
+        "email": "joaolucas67@gmail.com",
+        "whatsapp": "1199999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv":{
+        "name": "Cesar dos Santos de Almeida",
+        "cpf": "00000014141",
+        "email": "cesarsantos.com.br",
+        "whatsapp": "1199999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "cnh": "cnh-digital.jpg"
+    }
+}
